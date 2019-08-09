@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List Makanan</string>
+    <string name="food_name">nama makanan</string>
+    <string name="desc">asal</string>
+    <string name="with_card">with card</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">favorite</string>
+    <string name="aditya_augusta_firmansyah">Aditya Augusta Firmansyah</string>
+    <string name="afitya_augusta6_gmail_com">afitya.augusta6@gmail.com</string>
+    <string name="about">About</string>
+</resources>
